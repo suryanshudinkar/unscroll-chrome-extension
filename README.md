@@ -31,8 +31,9 @@ Chrome extension for Instagram detox: Block addictive elements for better contro
 - Other Chromium-based browsers (Edge, Brave, etc.)
 
 ## Privacy
-Unscroll does not collect, store, or transmit any personal data.
-All preferences are saved locally using Chrome storage APIs.
+Unscroll does not collect, store, or transmit any personal or sensitive user data.
+All preferences are stored locally on the user’s device using Chrome storage APIs.
+The extension does not use analytics, tracking, or external servers.
 
 ## Support
 For issues or feature requests, please open a GitHub issue.
