@@ -30,6 +30,13 @@ Chrome extension for Instagram detox: Block addictive elements for better contro
 - Chrome 88+ (Windows, macOS, Linux)
 - Other Chromium-based browsers (Edge, Brave, etc.)
 
+## Privacy
+Unscroll does not collect, store, or transmit any personal data.
+All preferences are saved locally using Chrome storage APIs.
+
+## Support
+For issues or feature requests, please open a GitHub issue.
+
 ## Limitations & Notes
 
 1. **Instagram UI Changes**: Instagram frequently updates their UI. Selectors may need updates if Instagram changes their DOM structure. The extension uses multiple selector strategies to be more resilient.
