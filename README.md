@@ -2,6 +2,9 @@
 
 Chrome extension for Instagram detox: Block addictive elements for better control.
 
+## Link to Chrome Web Store
+https://chromewebstore.google.com/detail/unscroll/ofbbhlipfglgbpcggckmknphbilchhel
+
 ## Features
 
 - **Block Reels**: Hide Reels tab and block navigation to Reels
